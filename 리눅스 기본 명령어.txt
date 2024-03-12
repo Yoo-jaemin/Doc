@@ -6,6 +6,8 @@ $
 1. 경로 이동 (change directory) : cd
 	cd . : 현재 디렉토리
 	cd .. : 상위 디렉토리
+	cd ~ : home 디렉토리
+	
 
 2. 디렉토리 목록 확인 (list) : ls
 	ls -lh : 보기종은 형태로 출력 (-l : 파일크기 옵션)
