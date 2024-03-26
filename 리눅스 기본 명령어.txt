@@ -14,7 +14,7 @@ $
 
 3. 파일이나 디렉토리 삭제 : rm
 	rm abc.txt : 해당 파일을 삭제(내부적으로 'rm -i'로 연결됨)
-	rm -r abc : 해당 디렉터리를 삭제(r은 Recursive의 약자) 
+	rm -r abc : 해당 디렉터리를 삭제(r은 Recursive의 약자) **-r 폴더 삭제할 때 
 	
 4. 파일이나 디렉토리 복사 : cp
 	cp abc.txt cba.txt : abc.txt를 cba.txt라는 이름으로 바꿔서 복사
